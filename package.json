@@ -24,6 +24,10 @@
       "no-usused-var": 1
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/jackd942/api-course.git"
+  },
   "author": "Khaedl Rahman Ayon",
   "license": "ISC",
   "dependencies": {
